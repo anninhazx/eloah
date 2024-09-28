@@ -1,0 +1,27 @@
+.eloah{
+    height: 150px;
+    width: 100%;;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+h1{
+    margin-right: 700px;
+}
+
+.eloa{
+height: 100px;
+width: 100%;
+
+justify-content: center;
+align-items: center;
+display: flex;
+
+
+}
+
+span{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
